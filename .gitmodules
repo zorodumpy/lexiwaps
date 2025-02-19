@@ -1,0 +1,3 @@
+[submodule "jayjay"]
+	path = jayjay
+	url = https://github.com/jayjoji/jayjay.git
